@@ -3,14 +3,14 @@ package com.change.pims.test;
 import android.test.ActivityInstrumentationTestCase2;
 import com.change.pims.*;
 
-public class HelloAndroidActivityTest extends ActivityInstrumentationTestCase2<HelloAndroidActivity> {
+public class HelloAndroidActivityTest extends ActivityInstrumentationTestCase2<SplashScreenActivity> {
 
     public HelloAndroidActivityTest() {
-        super(HelloAndroidActivity.class); 
+        super(SplashScreenActivity.class);
     }
 
     public void testActivity() {
-        HelloAndroidActivity activity = getActivity();
+        SplashScreenActivity activity = getActivity();
         assertNotNull(activity);
     }
 }
