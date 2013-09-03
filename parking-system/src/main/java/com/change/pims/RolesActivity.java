@@ -4,11 +4,7 @@ import android.app.Activity;
 import android.os.Bundle;
 
 /**
- * Created with IntelliJ IDEA.
- * User: Abiola
- * Date: 8/18/13
- * Time: 6:16 PM
- * To change this template use File | Settings | File Templates.
+ *should contain the gridview that consist of both the security and the admin
  */
 public class RolesActivity extends Activity {
     public void onCreate(Bundle savedInstanceState) {

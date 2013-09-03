@@ -4,11 +4,7 @@ import android.app.Activity;
 import android.os.Bundle;
 
 /**
- * Created with IntelliJ IDEA.
- * User: Abiola
- * Date: 8/18/13
- * Time: 6:17 PM
- * To change this template use File | Settings | File Templates.
+ * implementing a list view that shows all possible task that can be performed by the admin
  */
 public class AdminActivity extends Activity {
     public void onCreate(Bundle savedInstanceState) {
