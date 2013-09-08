@@ -5,5 +5,11 @@
     <string name="hello">Hello parking-system!</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+    <string name="login">Log In</string>
+    <string name="uName" >User Name</string>
+    <string name="pWord" >Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="new_sign">New User ?</string>
+    <string name="register">Register</string>
 
 </resources>
