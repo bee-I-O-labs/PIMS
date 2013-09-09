@@ -4,91 +4,50 @@
               android:orientation="vertical"
               android:layout_width="fill_parent"
               android:layout_height="fill_parent">
-
-    <TextView
-            android:layout_width="wrap_content"
+    <!--username field-->
+    <EditText
+            android:id="@+id/txtUserName"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:inputType="text"
+            android:hint="@string/uName"
             android:layout_marginTop="20dp"
-            android:layout_gravity="center_horizontal"
-            android:text="@string/login"
-            android:textSize="25dp"
-            />
+            android:layout_marginRight="5dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginBottom="10dp"/>
 
-    <LinearLayout android:orientation="horizontal"
-                  android:layout_width="fill_parent"
-                  android:layout_height="50dp"
-                  android:layout_marginTop="20dp">
-
-        <!--username label-->
-        <TextView
-                android:layout_width="100dp"
-                android:layout_height="wrap_content"
-                android:layout_weight="0.33"
-                android:textSize="20dp"
-                android:layout_marginLeft="20dp"
-                android:text="@string/uName"
-                />
-
-        <!--username field-->
-        <EditText
-                android:id="@+id/txtUserName"
-                android:layout_width="100dp"
-                android:layout_height="50dp"
-                android:layout_weight="1.77"
-                android:layout_marginRight="20dp"
-                android:inputType="text"
-                />
-
-     </LinearLayout>
-
-    <LinearLayout android:orientation="horizontal"
-                  android:layout_width="fill_parent"
-                  android:layout_height="50dp"
-                  android:layout_marginTop="20dp">
-
-        <!--password label-->
-        <TextView
-                android:layout_width="100dp"
-                android:layout_height="wrap_content"
-                android:layout_weight="0.33"
-                android:textSize="20dp"
-                android:layout_marginLeft="20dp"
-                android:text="@string/pWord"
-                />
-
-        <!--password field-->
-        <EditText
-                android:id="@+id/txtPassword"
-                android:layout_width="100dp"
-                android:layout_height="50dp"
-                android:layout_weight="1.77"
-                android:layout_marginRight="20dp"
-                android:inputType="textPassword"
-                />
-
-    </LinearLayout>
+    <!--password field-->
+    <EditText
+            android:id="@+id/txtPassword"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="5dp"
+            android:inputType="textPassword"
+            android:hint="@string/pWord"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="5dp"/>
 
     <!--sign in button-->
     <Button
             android:id="@+id/btnSignIn"
-            android:layout_width="100dp"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
             android:layout_gravity="center_horizontal"
             android:text="@string/sign_in"
             android:textSize="20dp"
             />
-
     <LinearLayout android:orientation="horizontal"
                   android:layout_width="fill_parent"
-                  android:layout_height="50dp"
+                  android:layout_height="wrap_content"
                   android:layout_marginTop="20dp">
 
         <!--new user label-->
         <TextView
-                android:layout_width="100dp"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_weight="1.33"
+                android:layout_weight="1"
                 android:textSize="20dp"
                 android:layout_marginLeft="20dp"
                 android:text="@string/new_sign"
@@ -97,10 +56,9 @@
         <!--register button-->
         <Button
                 android:id="@+id/btnReg"
-                android:layout_width="100dp"
-                android:layout_height="50dp"
-                android:layout_weight="1.77"
-                android:layout_marginRight="20dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
                 android:text="@string/register"
                 android:textSize="20dp"
                 />

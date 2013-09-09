@@ -1,25 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AndroidDesignerProfile">
-    <option name="fullProfile">
-      <profile>
-        <option name="device" value="[None]" />
-        <option name="theme" value="AppTheme" />
-      </profile>
-    </option>
-    <option name="selection" value="[Full]" />
-  </component>
-  <component name="AndroidLayoutPreviewToolWindow">
-    <option name="state">
-      <GlobalState>
-        <option name="device" value="2.7in QVGA" />
-        <option name="dockMode" value="" />
-        <option name="nightMode" value="notnight" />
-        <option name="targetHashString" value="android-7" />
-        <option name="theme" value="AppTheme" />
-      </GlobalState>
-    </option>
-  </component>
   <component name="BuildServerSettings">
     <option name="LOGIN" value="" />
     <option name="SERVER_URL" value="http://buildserver" />
@@ -45,45 +25,28 @@
     <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="785b9729-3806-449b-82d0-52b6bd29f425" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\STEEL\Documents\PIMS\PIMS\.idea\libraries\Maven__commons_codec_commons_codec_1_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\STEEL\Documents\PIMS\PIMS\.idea\libraries\Maven__commons_logging_commons_logging_1_1_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\STEEL\Documents\PIMS\PIMS\.idea\libraries\Maven__junit_junit_4_11.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\STEEL\Documents\PIMS\PIMS\.idea\libraries\Maven__org_apache_httpcomponents_httpclient_4_0_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\STEEL\Documents\PIMS\PIMS\.idea\libraries\Maven__org_apache_httpcomponents_httpcore_4_0_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\STEEL\Documents\PIMS\PIMS\.idea\libraries\Maven__org_hamcrest_hamcrest_core_1_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\STEEL\Documents\PIMS\PIMS\.idea\libraries\Maven__org_json_json_20080701.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\STEEL\Documents\PIMS\PIMS\.idea\libraries\Maven__org_khronos_opengl_api_gl1_1_android_2_1_r1.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\STEEL\Documents\PIMS\PIMS\.idea\libraries\Maven__xerces_xmlParserAPIs_2_6_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\STEEL\Documents\PIMS\PIMS\.idea\libraries\Maven__xpp3_xpp3_1_1_4c.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\STEEL\Documents\PIMS\PIMS\parking-system-parent.iml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parking-system/src/main/java/com/change/pims/LoginActivity.java" afterPath="$PROJECT_DIR$/parking-system/src/main/java/com/change/pims/LoginActivity.java" />
+    <list default="true" id="2b26f480-f24c-4f09-8555-08aeedf055ae" name="Default" comment="">
+      <change type="DELETED" beforePath="G:\learning\MajorProjects\Android\PIMS\parking-system-it\parking-system-it.iml" afterPath="" />
+      <change type="DELETED" beforePath="G:\learning\MajorProjects\Android\PIMS\parking-system\parking-system.iml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parking-system/AndroidManifest.xml" afterPath="$PROJECT_DIR$/parking-system/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parking-system-it/target/generated-sources/r/com/change/pims/test/BuildConfig.java" afterPath="$PROJECT_DIR$/parking-system-it/target/generated-sources/r/com/change/pims/test/BuildConfig.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parking-system/target/generated-sources/r/com/change/pims/BuildConfig.java" afterPath="$PROJECT_DIR$/parking-system/target/generated-sources/r/com/change/pims/BuildConfig.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parking-system-it/target/generated-sources/r/com/change/pims/test/Manifest.java" afterPath="$PROJECT_DIR$/parking-system-it/target/generated-sources/r/com/change/pims/test/Manifest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parking-system/target/generated-sources/r/com/change/pims/Manifest.java" afterPath="$PROJECT_DIR$/parking-system/target/generated-sources/r/com/change/pims/Manifest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parking-system-it/target/generated-sources/r/com/change/pims/test/R.java" afterPath="$PROJECT_DIR$/parking-system-it/target/generated-sources/r/com/change/pims/test/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parking-system/target/generated-sources/r/com/change/pims/R.java" afterPath="$PROJECT_DIR$/parking-system/target/generated-sources/r/com/change/pims/R.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parking-system/res/layout/activity_login.xml" afterPath="$PROJECT_DIR$/parking-system/res/layout/activity_login.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parking-system/parking-system.iml" afterPath="$PROJECT_DIR$/parking-system/parking-system.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parking-system/res/values/strings.xml" afterPath="$PROJECT_DIR$/parking-system/res/values/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parking-system/res/values/styles.xml" afterPath="$PROJECT_DIR$/parking-system/res/values/styles.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="parking-system-parent.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="785b9729-3806-449b-82d0-52b6bd29f425" time="1378484852408" ignored="false" />
-    <file path="/AndroidManifest.xml" changelist="785b9729-3806-449b-82d0-52b6bd29f425" time="1378190004279" ignored="false" />
-    <file path="/RolesActivity.java" changelist="785b9729-3806-449b-82d0-52b6bd29f425" time="1378190075388" ignored="false" />
-    <file path="/SecurityActivity.java" changelist="785b9729-3806-449b-82d0-52b6bd29f425" time="1378190103482" ignored="false" />
-    <file path="/AdminActivity.java" changelist="785b9729-3806-449b-82d0-52b6bd29f425" time="1378396138428" ignored="false" />
-    <file path="/LoginActivity.java" changelist="785b9729-3806-449b-82d0-52b6bd29f425" time="1378412229321" ignored="false" />
-    <file path="/a.xml" changelist="785b9729-3806-449b-82d0-52b6bd29f425" time="1378484615273" ignored="false" />
-    <file path="/styles.xml" changelist="785b9729-3806-449b-82d0-52b6bd29f425" time="1378397862804" ignored="false" />
-    <file path="/main.xml" changelist="785b9729-3806-449b-82d0-52b6bd29f425" time="1378397982295" ignored="false" />
-    <file path="/fragment.java" changelist="785b9729-3806-449b-82d0-52b6bd29f425" time="1378398086526" ignored="false" />
-    <file path="/activity_login.xml" changelist="785b9729-3806-449b-82d0-52b6bd29f425" time="1378412701554" ignored="false" />
-    <file path="/strings.xml" changelist="785b9729-3806-449b-82d0-52b6bd29f425" time="1378401703798" ignored="false" />
-    <file path="/a.html" changelist="785b9729-3806-449b-82d0-52b6bd29f425" time="1378484617581" ignored="false" />
-    <file path="/a.java" changelist="785b9729-3806-449b-82d0-52b6bd29f425" time="1378484619008" ignored="false" />
-    <file path="$PROJECT_DIR$/../frag/gen/com/example/frag/R.java" changelist="785b9729-3806-449b-82d0-52b6bd29f425" time="1378485168380" ignored="false" />
-    <file path="$PROJECT_DIR$/../frag/project.properties" changelist="785b9729-3806-449b-82d0-52b6bd29f425" time="1378485174426" ignored="false" />
+    <file path="/Dummy.txt" changelist="2b26f480-f24c-4f09-8555-08aeedf055ae" time="1378713224937" ignored="false" />
+    <file path="/fragment.java" changelist="2b26f480-f24c-4f09-8555-08aeedf055ae" time="1378713260792" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,11 +54,6 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
-  <component name="Commander">
-    <leftPanel />
-    <rightPanel />
-    <splitter proportion="0.5" />
-  </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
@@ -149,40 +107,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="activity_login.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/parking-system/res/layout/activity_login.xml">
+      <file leaf-file-name="parking-system-parent.iml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/parking-system-parent.iml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="57" selection-start="1089" selection-end="1089" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="android-designer">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="strings.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/parking-system/res/values/strings.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="37" selection-start="474" selection-end="474" vertical-scroll-proportion="0.0">
+            <state line="14" column="70" selection-start="606" selection-end="606" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LoginActivity.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="LoginActivity.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/parking-system/src/main/java/com/change/pims/LoginActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="106" selection-start="778" selection-end="778" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="styles.xml" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/parking-system/res/values-v11/styles.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="52" selection-start="323" selection-end="323" vertical-scroll-proportion="0.28239202">
+            <state line="12" column="13" selection-start="254" selection-end="254" vertical-scroll-proportion="0.31989247">
               <folding />
             </state>
           </provider>
@@ -199,56 +136,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitLogSettings">
-    <option name="myStructureFilterPaths" />
     <option name="myDateState">
       <MyDateState />
     </option>
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="changedFiles">
-      <list>
-        <option value="$PROJECT_DIR$/parking-system/res/layout/activity_register.xml" />
-        <option value="$PROJECT_DIR$/parking-system/res/layout/activity_roles.xml" />
-        <option value="$PROJECT_DIR$/parking-system/res/layout/activity_security_view.xml" />
-        <option value="$PROJECT_DIR$/parking-system/res/layout/activity_admin_view.xml" />
-        <option value="$PROJECT_DIR$/parking-system/src/main/java/com/change/pims/RolesActivity.java" />
-        <option value="$PROJECT_DIR$/parking-system/src/main/java/com/change/pims/SecurityActivity.java" />
-        <option value="$PROJECT_DIR$/parking-system/res/values/styles.xml" />
-        <option value="$PROJECT_DIR$/parking-system/res/menu/main.xml" />
-        <option value="$PROJECT_DIR$/parking-system/res/values-v14/styles.xml" />
-        <option value="$PROJECT_DIR$/parking-system/res/values-v11/styles.xml" />
-        <option value="$PROJECT_DIR$/parking-system/src/main/java/com/change/pims/LoginActivity.java" />
-        <option value="$PROJECT_DIR$/parking-system/src/main/java/com/change/pims/AdminActivity.java" />
-        <option value="$PROJECT_DIR$/parking-system/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/parking-system/res/layout/activity_login.xml" />
-        <option value="$PROJECT_DIR$/parking-system/res/values/strings.xml" />
-      </list>
-    </option>
-  </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="dedicatedModuleDir" value="C:\Users\STEEL\Documents\PIMS\PIMS" />
-        <option name="importAutomatically" value="true" />
-        <option name="lookForNested" value="true" />
-      </MavenImportingSettings>
-    </option>
-  </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-      </PATH>
-    </treeState>
-  </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1296" />
-    <option name="height" value="786" />
+    <option name="width" value="1382" />
+    <option name="height" value="754" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -259,17 +155,11 @@
     <OptionsSetting value="true" id="Edit" />
     <OptionsSetting value="true" id="Undo Check Out" />
     <OptionsSetting value="true" id="Get Latest Version" />
-    <ConfirmationsSetting value="1" id="Add" />
+    <ConfirmationsSetting value="0" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
     <option name="STATE" value="0" />
-  </component>
-  <component name="ProjectStructureProblems">
-    <ignored-problems>
-      <problem id="library-invalid-classes-path(library:project:Maven: com.google.android:android-test:4.1.1.4)" />
-      <problem id="library-invalid-classes-path(library:project:Maven: com.google.android:android:4.1.1.4)" />
-    </ignored-problems>
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
@@ -284,58 +174,8 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="parking-system-parent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="parking-system-it" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="parking-system-parent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="parking-system-it" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com.change.pims.test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="parking-system-parent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="parking-system" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="parking-system-parent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="parking-system" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com.change.pims" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -343,14 +183,6 @@
               <option name="myItemId" value="parking-system-parent" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="&lt; Android &gt;" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -373,28 +205,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="parking-system" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="parking-system-parent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PIMS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="parking-system" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -430,74 +240,31 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="parking-system">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="parking-system">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="GoToFile.includeJavaFiles" value="false" />
-    <property name="project.structure.last.edited" value="SDKs" />
-    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="options.lastSelected" value="preferences.sourceCode.Java" />
-    <property name="AndroidLayoutSelectedEditor" value="text-editor" />
-    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="FullScreen" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RunManager" selected="Android Application.Unnamed">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
       <option name="PROGRAM_PARAMETERS" />
-      <method />
-    </configuration>
-    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
-      <module name="parking-system" />
-      <option name="TESTING_TYPE" value="0" />
-      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="TARGET_SELECTION_MODE" value="USB_DEVICE" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="USE_COMMAND_LINE" value="true" />
-      <option name="COMMAND_LINE" value="" />
-      <option name="WIPE_USER_DATA" value="false" />
-      <option name="DISABLE_BOOT_ANIMATION" value="false" />
-      <option name="NETWORK_SPEED" value="full" />
-      <option name="NETWORK_LATENCY" value="none" />
-      <option name="CLEAR_LOGCAT" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
@@ -590,7 +357,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <option name="MODE" value="default_activity" />
       <option name="DEPLOY" value="true" />
-      <option name="TARGET_SELECTION_MODE" value="USB_DEVICE" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
       <option name="PREFERRED_AVD" value="" />
       <option name="USE_COMMAND_LINE" value="true" />
       <option name="COMMAND_LINE" value="" />
@@ -598,7 +365,7 @@
       <option name="DISABLE_BOOT_ANIMATION" value="false" />
       <option name="NETWORK_SPEED" value="full" />
       <option name="NETWORK_LATENCY" value="none" />
-      <option name="CLEAR_LOGCAT" value="true" />
+      <option name="CLEAR_LOGCAT" value="false" />
       <method />
     </configuration>
     <configuration default="false" name="Unnamed" type="AndroidRunConfigurationType" factoryName="Android Application">
@@ -614,7 +381,7 @@
       <option name="DISABLE_BOOT_ANIMATION" value="false" />
       <option name="NETWORK_SPEED" value="full" />
       <option name="NETWORK_LATENCY" value="none" />
-      <option name="CLEAR_LOGCAT" value="true" />
+      <option name="CLEAR_LOGCAT" value="false" />
       <RunnerSettings RunnerId="AndroidDebugRunner" />
       <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
       <method />
@@ -628,7 +395,7 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
-  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false">
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
     <option name="USER" value="" />
     <option name="PASSWORD" value="" />
     <option name="mySSHConnectionTimeout" value="30000" />
@@ -638,7 +405,6 @@
     <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
     <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
     <option name="IGNORE_SPACES_IN_MERGE" value="false" />
-    <option name="DETECT_NESTED_COPIES" value="true" />
     <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
     <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
     <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
@@ -648,66 +414,43 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="785b9729-3806-449b-82d0-52b6bd29f425" name="Default" comment="" />
-      <created>1376845890843</created>
-      <updated>1376845890843</updated>
+      <changelist id="2b26f480-f24c-4f09-8555-08aeedf055ae" name="Default" comment="" />
+      <created>1378713208341</created>
+      <updated>1378713208341</updated>
     </task>
     <servers />
   </component>
-  <component name="TodoView" selected-index="0">
-    <todo-panel id="selected-file">
-      <are-packages-shown value="false" />
-      <are-modules-shown value="false" />
-      <flatten-packages value="false" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <are-modules-shown value="false" />
-      <flatten-packages value="false" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="default-changelist">
-      <are-packages-shown value="false" />
-      <are-modules-shown value="false" />
-      <flatten-packages value="false" />
-      <is-autoscroll-to-source value="false" />
-    </todo-panel>
-  </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="786" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3280255" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3280255" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32943144" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3280255" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3280255" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32961783" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2439222" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TeamCity" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24554294" sideWeight="0.67197454" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32961783" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32873377" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.6700337" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32996634" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32873377" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28003246" sideWeight="0.67197454" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="TeamCity" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -775,197 +518,20 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/parking-system-it/res/values/strings.xml">
+    <entry file="file://$PROJECT_DIR$/parking-system-parent.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/parking-system/res/layout/activity_admin_view.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/parking-system/res/values-v14/styles.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="55" selection-start="350" selection-end="353" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/parking-system/target/generated-sources/r/com/change/pims/R.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="28" selection-start="166" selection-end="166" vertical-scroll-proportion="0.14629948" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/parking-system/res/menu/main.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="62" selection-start="253" selection-end="253" vertical-scroll-proportion="0.22591361" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/parking-system/src/main/java/com/change/pims/SecurityActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="50" selection-start="278" selection-end="278" vertical-scroll-proportion="0.25415283">
+        <state line="14" column="70" selection-start="606" selection-end="606" vertical-scroll-proportion="0.0">
           <folding />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/parking-system/src/main/java/com/change/pims/RegisterActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="13" selection-start="249" selection-end="249" vertical-scroll-proportion="0.31063122">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/parking-system/res/values/styles.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="51" selection-start="472" selection-end="472" vertical-scroll-proportion="0.33887044" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/parking-system/res/values/dimens.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/parking-system/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="55" selection-start="800" selection-end="800" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="57" selection-start="638" selection-end="638" vertical-scroll-proportion="0.48006645" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/parking-system/src/main/java/com/change/pims/AdminActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="5" selection-start="331" selection-end="331" vertical-scroll-proportion="0.31063122">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/parking-system/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="37" selection-start="474" selection-end="474" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/parking-system/res/layout/activity_login.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="57" selection-start="1089" selection-end="1089" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/parking-system/src/main/java/com/change/pims/LoginActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="106" selection-start="778" selection-end="778" vertical-scroll-proportion="0.0">
+        <state line="12" column="13" selection-start="254" selection-end="254" vertical-scroll-proportion="0.31989247">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/parking-system/res/values-v11/styles.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="52" selection-start="323" selection-end="323" vertical-scroll-proportion="0.28239202">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>Android</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>Android</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>parking-system-it</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>Maven Android 4.1.2 Platform</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.32440946" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>Maven: com.google.android:android-test:4.1.1.4</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
 
