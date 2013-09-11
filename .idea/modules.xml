@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/parking-system.iml" filepath="$PROJECT_DIR$/parking-system.iml" />
-      <module fileurl="file://$PROJECT_DIR$/parking-system-it.iml" filepath="$PROJECT_DIR$/parking-system-it.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parking-system/parking-system.iml" filepath="$PROJECT_DIR$/parking-system/parking-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parking-system-it/parking-system-it.iml" filepath="$PROJECT_DIR$/parking-system-it/parking-system-it.iml" />
       <module fileurl="file://$PROJECT_DIR$/parking-system-parent.iml" filepath="$PROJECT_DIR$/parking-system-parent.iml" />
     </modules>
   </component>

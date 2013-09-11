@@ -5,4 +5,167 @@
               android:layout_width="fill_parent"
               android:layout_height="fill_parent">
 
+    <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            >
+        <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content">
+
+            <!--Capacity-->
+            <TextView
+                    android:layout_width="100dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:textSize="20dp"
+                    android:layout_marginLeft="20dp"
+                    android:text="@string/capacity"
+                    />
+
+            <TextView
+                    android:id="@+id/txtCapacity"
+                    android:layout_width="100dp"
+                    android:layout_height="wrap_content"
+                    android:textSize="30dp"
+                    android:layout_weight="0"
+                    android:layout_marginRight="20dp"
+                    />
+
+        </LinearLayout>
+
+        <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content">
+
+            <!--Available-->
+            <TextView
+                    android:layout_width="100dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:textSize="20dp"
+                    android:layout_marginLeft="20dp"
+                    android:text="@string/available"
+                    />
+
+            <TextView
+                    android:id="@+id/txtAvailable"
+                    android:layout_width="100dp"
+                    android:layout_height="wrap_content"
+                    android:textSize="30dp"
+                    android:layout_weight="0"
+                    android:layout_marginRight="20dp"
+                    />
+
+        </LinearLayout>
+
+        <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content">
+
+            <!--Reserved-->
+            <TextView
+                    android:layout_width="100dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:textSize="20dp"
+                    android:layout_marginLeft="20dp"
+                    android:text="@string/reserved"
+                    />
+
+            <TextView
+                    android:id="@+id/txtReserved"
+                    android:layout_width="100dp"
+                    android:layout_height="wrap_content"
+                    android:textSize="30dp"
+                    android:layout_weight="0"
+                    android:layout_marginRight="20dp"
+                    />
+
+        </LinearLayout>
+
+        <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content">
+
+            <!--Is Open-->
+            <TextView
+                    android:layout_width="100dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:textSize="20dp"
+                    android:layout_marginLeft="20dp"
+                    android:text="@string/is_open"
+                    />
+
+            <TextView
+                    android:id="@+id/txtIsOpen"
+                    android:layout_width="100dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0"
+                    android:textSize="30dp"
+                    android:layout_marginRight="20dp"
+                    />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            >
+
+        <!--Button Increase-->
+        <Button
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:textSize="20dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:text="@string/increase"
+                android:id="@+id/btnIncrease"
+                />
+
+        <!--Button Decrease-->
+        <Button
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:textSize="20dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:text="@string/decrease"
+                android:id="@+id/btnDecrease"
+                />
+
+    </LinearLayout>
+
+    <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:layout_marginTop="20dp"
+            >
+
+        <!--Button Close-->
+        <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:text="@string/close_lot"
+                android:textSize="20dp"
+                android:id="@+id/btnClose"
+                />
+
+    </LinearLayout>
+
 </LinearLayout>
